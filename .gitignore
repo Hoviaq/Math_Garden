@@ -73,3 +73,45 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+# ==================================================
+# Unreal Engine Default / Template Assets
+# ==================================================
+
+# UE5 Mannequins
+Content/Characters/Mannequins/
+Content/Characters/Mannequins/**
+Content/Characters/Mannequins_UE4/
+Content/Characters/Mannequins_UE4/**
+
+# Legacy UE4 Mannequin
+Content/Mannequin/
+Content/Mannequin/**
+
+# Starter Content
+Content/StarterContent/
+Content/StarterContent/**
+
+# Default Template Content
+Content/ThirdPerson/
+Content/ThirdPerson/**
+
+Content/FirstPerson/
+Content/FirstPerson/**
+
+Content/TopDown/
+Content/TopDown/**
+
+Content/Vehicle/
+Content/Vehicle/**
+
+# Optional Default Template Folders
+Content/Variant_Horror/
+Content/Variant_Horror/**
+
+Content/Variant_Shooter/
+Content/Variant_Shooter/**
+
+Content/Variant_Combat/
+Content/Variant_Combat/**
+# Large forest ambient sound assets
+**/30_Minutes_Of_Relaxing_Nature_Forest_Sounds__No_Music_.uasset
